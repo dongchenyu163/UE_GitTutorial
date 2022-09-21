@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{3C676BD6-4E0B-244B-CD6D-EA8C8D28B524}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE_GitTutorial",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
