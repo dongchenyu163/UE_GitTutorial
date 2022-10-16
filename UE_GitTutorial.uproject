@@ -21,6 +21,20 @@
 		{
 			"Name": "HoudiniEngine",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintAssist",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "NodeGraphAssistant",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
 		}
 	]
 }
